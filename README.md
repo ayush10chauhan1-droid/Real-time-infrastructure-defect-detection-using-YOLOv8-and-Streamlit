@@ -128,6 +128,6 @@ Open http://localhost:8501 in your browser.
 
 ## Author
 
-Pradeep Singh
+Ayush Singh
 
 Open to feedback and suggestions. Feel free to reach out.

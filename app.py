@@ -8,7 +8,7 @@ import tempfile
 st.set_page_config(page_title="YOLOv8 Object Detection", page_icon="🔍", layout="wide")
 
 st.title("🔍 YOLOv8 Object Detection")
-st.markdown("**Built by Pradeep Singh** | Custom Trained YOLOv8 Model")
+st.markdown("**Built by Ayush Singh** | Custom Trained YOLOv8 Model")
 st.markdown("---")
 
 @st.cache_resource
@@ -89,4 +89,4 @@ elif input_type == "Webcam":
         cap.release()
 
 st.markdown("---")
-st.markdown("Made with love by **Pradeep Singh** | Powered by **YOLOv8 + Streamlit**")
+st.markdown("Made with love by **Ayush Singh** | Powered by **YOLOv8 + Streamlit**")
